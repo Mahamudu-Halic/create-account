@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: url(img//a.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+form{
+	background: #fff;
+	padding: 1em 1.5em;
+}
+.form{
+		/*border: solid 3px whitesmoke;*/
+	width: 40%;
+	margin: 5% auto;
+	background: #fff;
+
+}
+h1{
+	text-transform: capitalize;
+}
+
+.form-group{
+
+	margin: 1em 0;
+}
+
+.form-control{
+	width: 100%;
+	padding: .8em;
+	border-radius: 5px;
+}
+
+button{
+	text-transform: capitalize;
+	padding: .5em 2em;
+	width: 100%;
+	margin-bottom: 1em;
+}
+
+p{
+	text-align: center;
+	padding: 1em;
+}
+
+p a{
+	text-decoration: none;
+}
+
+.login{
+	background: #c3c3c3;
+	width: 100%;
+	color: #fff;
+}
